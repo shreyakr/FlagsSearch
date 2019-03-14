@@ -1,0 +1,129 @@
+{
+    "details": [
+   {
+        "continent": "Africa",
+		"countries": [
+			{
+				"label": "Nigeria",
+				"value": "🇳🇬"
+			},
+			{
+				"label": "Ethiopia",
+				"value": "🇪🇹"
+			},
+			{
+				"label": "Egypt",
+				"value": "🇪🇬"
+			},
+			{
+				"label": "DR Congo",
+				"value": "🇨🇩"
+			},
+			{
+				"label": "South Africa",
+				"value": "🇿🇦"
+			}
+		]
+	},
+	{
+		"continent": "America",
+		"countries": [
+			{
+				"label": "USA",
+				"value": "🇺🇸"
+			},
+			{
+				"label": "Brazil",
+				"value": "🇧🇷"
+			},
+			{
+				"label": "Mexico",
+				"value": "🇲🇽"
+			},
+			{
+				"label": "Colombia",
+				"value": "🇨🇴"
+			},
+			{
+				"label": "Argentina",
+				"value": "🇦🇷"
+			}
+		]
+	},
+	{
+		"continent": "Asia",
+		"countries": [
+			{
+				"label": "China",
+				"value": "🇨🇳"
+			},
+			{
+				"label": "India",
+				"value": "🇮🇳"
+			},
+			{
+				"label": "Indonesia",
+				"value": "🇮🇩"
+			},
+			{
+				"label": "Pakistan",
+				"value": "🇵🇰"
+			},
+			{
+				"label": "Bangladesh",
+				"value": "🇧🇩"
+			}
+		]
+	},
+	{
+		"continent": "Europe",
+		"countries": [
+			{
+				"label": "Russia",
+				"value": "🇷🇺"
+			},
+			{
+				"label": "Germany",
+				"value": "🇩🇪"
+			},
+			{
+				"label": "UK",
+				"value": "🇬🇧"
+			},
+			{
+				"label": "France",
+				"value": "🇫🇷"
+			},
+			{
+				"label": "Italy",
+				"value": "🇮🇹"
+			}
+		]
+	},
+	{
+		"continent": "Oceania",
+		"countries": [
+			{
+				"label": "Australia",
+				"value": "🇦🇺"
+			},
+			{
+				"label": "Papua New Guinea",
+				"value": "🇵🇬"
+			},
+			{
+				"label": "New Zealand",
+				"value": "🇳🇿"
+			},
+			{
+				"label": "Fiji",
+				"value": "🇫🇯"
+			},
+			{
+				"label": "Solomon Islands",
+				"value": "🇸🇧"
+			}
+		]
+	}
+    ]
+}
